@@ -4,10 +4,13 @@ const bodyParser = require('body-parser');
 const mongoose = require('mongoose');
 const path= require('path');
 
+require("dotenv").config();
+// console.log(process.env.db);
+
 main().catch(err => console.log(err));
 
 async function main() {
-  await mongoose.connect('mongodb://127.0.0.1:27017/originalportfolio');
+  await mongoose.connect(process.env.db);
   console.log('db connected');
 }
 
@@ -47,4 +50,4 @@ app.get('/demo', async(req,res) => {
   res.json(docs);
 })
 
-app.listen(5000, console.log('Server is running on port 5000'));                                                              
+app.listen(process.env.port, console.log('Server is running on port 5000'));                                                              
