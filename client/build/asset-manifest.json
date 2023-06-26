@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.68f9cdcd.css",
+    "main.js": "/static/js/main.dbaac8ab.js",
+    "static/media/vec.jpg": "/static/media/vec.1b9d17d74db1a2e09fb8.jpg",
+    "static/media/psychedelic-paper-shapes-with-copy-space.jpg": "/static/media/psychedelic-paper-shapes-with-copy-space.1a21bceea9ca18810b96.jpg",
+    "static/media/contact.jpg": "/static/media/contact.3fa5e6039cc80b125f64.jpg",
+    "static/media/responsive.png": "/static/media/responsive.4d7db43923b007433ba6.png",
+    "static/media/tvmaze.png": "/static/media/tvmaze.8a1757ac98c2bd065c7e.png",
+    "static/media/falcon.png": "/static/media/falcon.24949ee2f000851770e4.png",
+    "static/media/videohub.png": "/static/media/videohub.a483135a1d7b9ba8b69b.png",
+    "static/media/techstar.png": "/static/media/techstar.7378efaf2b9f5bd14000.png",
+    "static/media/clock.png": "/static/media/clock.49990972330c3591e9c9.png",
+    "static/media/crypto.png": "/static/media/crypto.47589ee728b89ff00fed.png",
+    "static/media/cart.png": "/static/media/cart.52a44125f64f9a98bff3.png",
+    "static/media/corona.png": "/static/media/corona.98db9fe71c2278d54e0f.png",
+    "static/media/leadzen.png": "/static/media/leadzen.58361c2eedb805132438.png",
+    "static/media/resume.pdf": "/static/media/resume.561b5006d6bbb83a25eb.pdf",
+    "index.html": "/index.html",
+    "main.68f9cdcd.css.map": "/static/css/main.68f9cdcd.css.map",
+    "main.dbaac8ab.js.map": "/static/js/main.dbaac8ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68f9cdcd.css",
+    "static/js/main.dbaac8ab.js"
+  ]
+}
